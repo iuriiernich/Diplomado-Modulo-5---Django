@@ -11,13 +11,6 @@ Este proyecto es un sistema de gestión para inmobiliarias, desarrollado con Dja
 - APIs RESTful generadas con Django REST Framework.
 - API personalizada para obtener transacciones recientes.
 
-## Requerimientos
-
-- Python 3.8 o superior
-- Django 4.2 o superior
-- Django REST Framework 3.14 o superior
-- Virtualenv (opcional pero recomendado)
-
 ## Instalación
 
 Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
