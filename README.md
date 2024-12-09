@@ -9,7 +9,7 @@ Este proyecto es un sistema de gestión para inmobiliarias, desarrollado con Dja
 - Seguimiento de prospectos interesados en los inmuebles.
 - Registro de transacciones cerradas entre prospectos y agentes.
 - APIs RESTful generadas con Django REST Framework.
-- API personalizada para obtener estadísticas (conteo de transacciones).
+- API personalizada para obtener transacciones recientes.
 
 ## Requerimientos
 
